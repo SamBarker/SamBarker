@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Principal Software Engineer working for IBM, previously at Red Hat, in the Kafka ecosystem and helps steer the Kroxylicious project. My background is in building and tending low latency systems based on the JVM. 
+I am a Principal Software Engineer working for IBM, previously at Red Hat, in the Kafka ecosystem and helps steer the [Kroxylicious project](https://github.com/kroxylicious/kroxylicious). My background is in building and tending low latency systems based on the JVM. 
 
 I weakly hold a variety of strong opinions about how software should be designed, built and deployed. 
 
