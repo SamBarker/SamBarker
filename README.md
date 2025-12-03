@@ -1,10 +1,13 @@
 ## Hi there 👋
-I am a Principal Software Engineer working for IBM, previously at Red Hat, in the Kafka ecosystem and helps steer the [Kroxylicious project](https://github.com/kroxylicious/kroxylicious). My background is in building and tending low latency systems based on the JVM. 
+I am a Principal Software Engineer working for IBM[1], previously at Red Hat, in the Kafka ecosystem and helps steer the [Kroxylicious project](https://github.com/kroxylicious/kroxylicious). My background is in building and tending low latency systems based on the JVM. 
 
 I weakly hold a variety of strong opinions about how software should be designed, built and deployed. 
 
 Beyond my professional world, my life revolves around the joy of parenting two young children. To recharge and explore new ideas, I lace up my running shoes, and cherish the time I spend with my thoughts while piling up the kilometers.
 
+
+
+[1] All opinions expressed are my own, and should not be considered representative of IBM or any other organisaiton.
 <!--
 **SamBarker/SamBarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
